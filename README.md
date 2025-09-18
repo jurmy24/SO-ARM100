@@ -1,6 +1,6 @@
 <div align="center">
 
-   <h1>Standard Open SO-100 & SO-101 Arms</h1>
+   <h1>Standard Open SO-100 & SO-101 Arm</h1>
    <div style="display: flex; gap: 1rem; justify-content: center; align-items: center;" >
    <img
       src="media/SO101_Follower.webp?raw=true"
